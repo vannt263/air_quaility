@@ -1,48 +1,49 @@
-﻿Địa điểm Trạm đo,Tỉnh,latitude,longitude
-Ba Đình,Hà Nội,21.04037,105.841
-Bến Lức,Long An,10.70246,106.46689
-Bình Định,Bắc Ninh,21.0015,106.17439
-Cao Đức,Bắc Ninh,21.08298,106.29542
-Chí Linh,Hải Dương,21.14431,106.3385
-Chi Phương,Lạng Sơn,22.31416,106.50546
-Hải Châu,Đà Nẵng,16.04757,108.20433
-Đại Bái,Bắc Ninh,21.05076,106.14515
-Đề Thám,Cao  Bằng,22.66682,106.215
-Đông Tân,Lạng Sơn,21.5373,106.36109
-Pleiku,Gia Lai,13.93786,107.98092
-Hạ Long,Quảng Ninh,20.98373,106.96727
-Long Biên,Hà Nội,21.04266,105.8915
-Quận 5,Hồ Chí Minh,10.75339,106.67012
-Hồng Phong,Lạng Sơn,21.93875,106.66632
-Kinh Môn,Hải Dương,21.0377,106.46395
-Lai Cách,Hải Dương,20.93706,106.25512
-Tằng Loỏng 2,Lào Cai,22.33039,104.12717
-Minh Thành,Quảng Ninh,20.99767,106.86104
-Vinh,Nghệ An,19.349,104.57191
-Nha Trang,Khánh Hòa,12.3438,109.15579
-Nho Quan,Ninh Bình,20.27603,105.694
-Ninh Kiều,Cần Thơ,10.0255,105.76691
-Phong Cốc,Bắc Ninh,21.12219,106.2889
-Phù Lãng,Bắc Ninh,21.15223,106.24257
-Phù Xá,Bắc Ninh,21.17252,105.93301
-Quế Võ,Bắc Ninh,21.16197,106.15142
-Quế Võ1,Bắc Ninh,21.16245,106.11434
-Tằng Loỏng 1,Lào Cai,22.33151,104.1275
-Tân Bình,Hải Dương,20.93295,106.30776
-Tây Hồ,Hà Nội,21.06468,105.82965
-Hòa Thành,Tây Ninh,11.26063,106.12277
-Thái Nguyên,Thái Nguyên,21.578,105.78117
-Phú Nhuận,Huế,16.46253,107.59242
-Thuận Thành,Bắc Ninh,21.04409,106.06302
-Từ Sơn,Bắc Ninh,21.13111,105.97696
-Tô Hiệu,Sơn La,21.3316,103.91199
-Dân Thành,Trà Vinh,9.5858,106.51411
-Trạm Khí TTQT,Cao  Bằng,22.66509,106.25065
-Tràng Bàng,Tây Ninh,11.06181,106.37923
-Uông Bí,Quảng Ninh,21.08191,106.75507
-Việt Trì,Phú Thọ,21.33989,105.32895
-Hòa Phú,Vĩnh Long,10.16002,105.93821
-Vũng Tàu,Bà Rịa Vũng Tàu,10.40265,107.12854
-Xuân Lâm,Bắc Ninh,21.02734,106.01784
-Yên Mỹ,Quảng Ninh,21.04012,107.02806
-Yên Phong,Bắc Ninh,21.21591,105.94723
+﻿Địa điểm Trạm đo,Tỉnh,latitude,longitude,,,,
+Ba Đình,Hà Nội,21.04037,105.841,,,,
+Bến Lức,Long An,10.70246,106.46689,,,,
+Bình Định,Bắc Ninh,21.0015,106.17439,,,,
+Cao Đức,Bắc Ninh,21.08298,106.29542,,,,
+Chí Linh,Hải Dương,21.14431,106.3385,,,,
+Chi Phương,Lạng Sơn,22.31416,106.50546,,,,
+Hải Châu,Đà Nẵng,16.04757,108.20433,,,,
+Đại Bái,Bắc Ninh,21.05076,106.14515,,,,
+Đại Đồng,Bắc Ninh,21.0914,105.99085,,,,
+Đề Thám,Cao  Bằng,22.66682,106.215,,,,
+Đông Tân,Lạng Sơn,21.5373,106.36109,,,,
+Pleiku,Gia Lai,13.93786,107.98092,,,,
+Hạ Long,Quảng Ninh,20.98373,106.96727,,,,
+Long Biên,Hà Nội,21.04266,105.8915,,,,
+Quận 5,Hồ Chí Minh,10.75339,106.67012,,,,
+Hồng Phong,Lạng Sơn,21.93875,106.66632,,,,
+Kinh Môn,Hải Dương,21.0377,106.46395,,,,
+Lai Cách,Hải Dương,20.93706,106.25512,,,,
+Tằng Loỏng 2,Lào Cai,22.33039,104.12717,,,,
+Minh Thành,Quảng Ninh,20.99767,106.86104,,,,
+Vinh,Nghệ An,19.349,104.57191,,,,
+Nha Trang,Khánh Hòa,12.3438,109.15579,,,,
+Nho Quan,Ninh Bình,20.27603,105.694,,,,
+Ninh Kiều,Cần Thơ,10.0255,105.76691,,,,
+Phong Cốc,Bắc Ninh,21.12219,106.2889,,,,
+Phù Lãng,Bắc Ninh,21.15223,106.24257,,,,
+Phú Xá,Bắc Ninh,21.17252,105.93301,,,,
+Quế Võ,Bắc Ninh,21.16197,106.15142,,,,
+Quế Võ 1,Bắc Ninh,21.16245,106.11434,,,,
+Tằng Loỏng,Lào Cai,22.33151,104.1275,,,,
+Tân Bình,Hải Dương,20.93295,106.30776,,,,
+Tây Hồ,Hà Nội,21.06468,105.82965,,,,
+Hòa Thành,Tây Ninh,11.26063,106.12277,,,,
+Thái Nguyên,Thái Nguyên,21.578,105.78117,,,,
+Phú Nhuận,Huế,16.46253,107.59242,,,,
+Thuận Thành,Bắc Ninh,21.04409,106.06302,,,,
+Từ Sơn,Bắc Ninh,21.13111,105.97696,,,,
+Tô Hiệu,Sơn La,21.3316,103.91199,,,,
+Dân Thành,Trà Vinh,9.5858,106.51411,,,,
+Trạm Khí TTQT,Cao  Bằng,22.66509,106.25065,,,,
+Tràng Bàng,Tây Ninh,11.06181,106.37923,,,,
+Uông Bí,Quảng Ninh,21.08191,106.75507,,,,
+Việt Trì,Phú Thọ,21.33989,105.32895,,,,
+Hòa Phú,Vĩnh Long,10.16002,105.93821,,,,
+Vũng Tàu,Bà Rịa Vũng Tàu,10.40265,107.12854,,,,
+Xuân Lâm,Bắc Ninh,21.02734,106.01784,,,,
+Yên Mỹ,Quảng Ninh,21.04012,107.02806,,,,
+Yên Phong,Bắc Ninh,21.21591,105.94723,,,,
