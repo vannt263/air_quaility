@@ -1,9 +1,11 @@
 ﻿Địa điểm trạm đo,Tỉnh,latitude,longitude,Loại đô thị
 Ba Đình,Hà Nội,21.04037,105.841,Loại đặc biệt
 Bắc Ninh,Bắc Ninh,21.15067,106.15868,Loại I
-Bắc Từ Liêm,Hà Nội,21.04975,105.7419,Loại đặc biệt
-Bảo Thắng,Lào Cai,22.33039,104.1272,Loại V
+Quảng Yên,Quảng Ninh,20.99767,106.861,Loại II
+Sơn La,Sơn La,21.3316,103.912,Loại III
 Bến Lức ,Long An,10.70246,106.4669,Loại IV
+Bảo Thắng,Lào Cai,22.33039,104.1272,Loại V
+Bắc Từ Liêm,Hà Nội,21.04975,105.7419,Loại đặc biệt
 Cẩm Giàng,Hải Dương,20.93706,106.2551,Loại I
 Cao Bằng,Cao Bằng,22.66509,106.2507,Loại III
 Cao Lộc,Lạng Sơn,21.93875,106.6663,Loại V
@@ -32,9 +34,7 @@ Ninh Kiều,Cần Thơ,10.0255,105.7669,Loại I
 Phạm Văn Đồng,Hà Nội,21.05121,105.7823,Loại đặc biệt
 Pleiku,Gia Lai,13.93786,107.9809,Loại I
 Quận 5,Hồ Chí Minh,10.75339,106.6701,Loại đặc biệt
-Quảng Yên,Quảng Ninh,20.99767,106.861,Loại II
 Quế Võ,Bắc Ninh,21.16197,106.1514,Loại IV
-Sơn La,Sơn La,21.3316,103.912,Loại III
 Tân Bình,Hải Dương,20.93295,106.3078,Loại I
 Tây Hồ,Hà Nội,21.06468,105.8297,Loại đặc biệt
 Thái Nguyên,Thái Nguyên,21.578,105.7812,Loại I
