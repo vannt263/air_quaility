@@ -1,132 +1,132 @@
-,Unnamed: 0,Mã số, Gây ra, ISO3, Năm, Tình dục, Nhóm tuổi, Dân số, Tử vong, Tỷ lệ tử vong trên 100.000 dân, DALY, Tỷ lệ DALY trên 100.000 dân
-0,0, 1140, Đột quỵ, VNM,2015, BTSX, Mọi lứa tuổi,92700000,156461.8,168.78,3119777.0,3365.46
-1,1, 11 giờ 30, Bệnh nhồi máu cơ tim, VNM,2015, BTSX, Mọi lứa tuổi,92700000,79955.46,86.25,1422402.0,1534.41
-2,2, 1180, Bệnh phổi tắc nghẽn mãn tính, VNM,2015, BTSX, Mọi lứa tuổi,92700000,33450.32,36.08,706146.5,761.75
-3,3, 800, Đái tháo đường, VNM,2015, BTSX, Mọi lứa tuổi,92700000,29034.58,31.32,896187.2,966.76
-4,4, 390, Nhiễm trùng hô hấp dưới, VNM,2015, BTSX, Mọi lứa tuổi,92700000,27164.0,29.3,775077.5,836.11
-5,5, 950, Bệnh Alzheimer và các bệnh mất trí nhớ khác, VNM,2015, BTSX, Mọi lứa tuổi,92700000,25963.74,28.01,375936.4,405.54
-6,6, 660, Ung thư gan, VNM,2015, BTSX, Mọi lứa tuổi,92700000,25718.88,27.74,898431.9,969.18
-7,7, 15:30, Chấn thương đường bộ, VNM,2015, BTSX, Mọi lứa tuổi,92700000,23582.0,25.44,1284261.0,1385.39
-8,8, 1270, Bệnh thận, VNM,2015, BTSX, Mọi lứa tuổi,92700000,21004.59,22.66,538212.1,580.6
-9,9, 12h30, Bệnh xơ gan, VNM,2015, BTSX, Mọi lứa tuổi,92700000,20759.54,22.39,585762.4,631.89
-10,10, 1120, Bệnh tim tăng huyết áp, VNM,2015, BTSX, Mọi lứa tuổi,92700000,18602.96,20.07,341534.0,368.43
-11,11, 680," Khí quản, phế quản, ung thư phổi", VNM,2015, BTSX, Mọi lứa tuổi,92700000,18309.56,19.75,510648.7,550.86
-12,12, 640, Ung thư dạ dày, VNM,2015, BTSX, Mọi lứa tuổi,92700000,13951.53,15.05,375886.9,405.49
-13,13, 30, bệnh lao, VNM,2015, BTSX, Mọi lứa tuổi,92700000,13908.72,15.0,723336.6,780.3
-14,14, 1550, Ngã, VNM,2015, BTSX, Mọi lứa tuổi,92700000,13611.37,14.68,403223.6,434.98
-15,15, 490, Điều kiện sơ sinh, VNM,2015, BTSX, Mọi lứa tuổi,92700000,12772.15,13.78,1358253.0,1465.21
-16,16, 1190, Hen suyễn, VNM,2015, BTSX, Mọi lứa tuổi,92700000,8180.52,8.82,255296.7,275.4
-17,17, 1400, Dị tật bẩm sinh, VNM,2015, BTSX, Mọi lứa tuổi,92700000,7850.33,8.47,759819.6,819.65
-18,18, 1610, Tự làm hại bản thân, VNM,2015, BTSX, Mọi lứa tuổi,92700000,7100.14,7.66,317570.0,342.58
-19,19, 650, Ung thư ruột kết và trực tràng, VNM,2015, BTSX, Mọi lứa tuổi,92700000,7038.31,7.59,188059.3,202.87
-20,20, 620, Ung thư miệng và vòm họng, VNM,2015, BTSX, Mọi lứa tuổi,92700000,6332.99,6.83,197735.9,213.31
-21,21, 100,HIV/AIDS, VNM,2015, BTSX, Mọi lứa tuổi,92700000,5906.0,6.37,319284.6,344.43
-22,22, 1570, Đuối nước, VNM,2015, BTSX, Mọi lứa tuổi,92700000,5353.01,5.77,298841.7,322.38
-23,23, 700, Ung thư vú, VNM,2015, BTSX, Mọi lứa tuổi,92700000,5327.68,5.75,191542.5,206.63
-24,24, 1150," Bệnh cơ tim, viêm cơ tim, viêm nội tâm mạc", VNM,2015, BTSX, Mọi lứa tuổi,92700000,4954.41,5.34,120272.4,129.74
-25,25, 110, Bệnh tiêu chảy, VNM,2015, BTSX, Mọi lứa tuổi,92700000,4941.7,5.33,336990.7,363.53
-26,26, 960, bệnh Parkinson, VNM,2015, BTSX, Mọi lứa tuổi,92700000,4888.8,5.27,77400.79,83.5
-27,27, 770, Bệnh bạch cầu, VNM,2015, BTSX, Mọi lứa tuổi,92700000,4768.98,5.14,234463.9,252.93
-28,28, 751, Ung thư não và hệ thần kinh, VNM,2015, BTSX, Mọi lứa tuổi,92700000,2954.37,3.19,134976.6,145.61
-29,29, 760," U lympho, đa u tủy", VNM,2015, BTSX, Mọi lứa tuổi,92700000,2618.64,2.82,91437.86,98.64
-30,30, 710, Ung thư tử cung cổ tử cung, VNM,2015, BTSX, Mọi lứa tuổi,92700000,2250.2,2.43,71485.84,77.12
-31,31, 1242, Liệt ruột và tắc ruột, VNM,2015, BTSX, Mọi lứa tuổi,92700000,2251.91,2.43,60186.91,64.93
-32,32, 630, Ung thư thực quản, VNM,2015, BTSX, Mọi lứa tuổi,92700000,2040.82,2.2,61462.85,66.3
-33,33, 1246, Bệnh túi mật và đường mật, VNM,2015, BTSX, Mọi lứa tuổi,92700000,1903.92,2.05,56195.52,60.62
-34,34, 1575, Tiếp xúc với lực cơ học, VNM,2015, BTSX, Mọi lứa tuổi,92700000,1883.25,2.03,150079.4,161.9
-35,35, 740, Ung thư tuyến tiền liệt, VNM,2015, BTSX, Mọi lứa tuổi,92700000,1739.97,1.88,50223.12,54.18
-36,36, 1110, Huyết áp thấp, VNM,2015, BTSX, Mọi lứa tuổi,92700000,1671.37,1.8,44021.45,47.49
-37,37, 1620, Bạo lực giữa các cá nhân, VNM,2015, BTSX, Mọi lứa tuổi,92700000,1662.94,1.79,140804.2,151.89
-38,38, 180, Viêm não, VNM,2015, BTSX, Mọi lứa tuổi,92700000,1588.49,1.71,76132.82,82.13
-39,39, 13:30, Bệnh ngoài da, VNM,2015, BTSX, Mọi lứa tuổi,92700000,1306.04,1.41,282861.2,305.14
-40,40, 870, Rối loạn sử dụng ma túy, VNM,2015, BTSX, Mọi lứa tuổi,92700000,1187.52,1.28,180158.5,194.35
-41,41, 745, Ung thư thận, VNM,2015, BTSX, Mọi lứa tuổi,92700000,1172.7,1.27,42715.19,46.08
-42,42, 720, Ung thư tử cung, VNM,2015, BTSX, Mọi lứa tuổi,92700000,1043.69,1.13,34514.22,37.23
-43,43, 1248, Viêm tụy, VNM,2015, BTSX, Mọi lứa tuổi,92700000,981.64,1.06,28813.5,31.08
-44,44, 1220, Bệnh viêm loét dạ dày, VNM,2015, BTSX, Mọi lứa tuổi,92700000,924.69,1.0,15541.6,16.77
-45,45, 1540, Ngộ độc, VNM,2015, BTSX, Mọi lứa tuổi,92700000,839.3,0.91,38921.53,41.99
-46,46, 130, Bịnh ho gà, VNM,2015, BTSX, Mọi lứa tuổi,92700000,818.29,0.88,73573.3,79.37
-47,47, 420, Điều kiện của mẹ, VNM,2015, BTSX, Mọi lứa tuổi,92700000,800.94,0.86,57584.83,62.12
-48,48, 750, Ung thư bàng quang, VNM,2015, BTSX, Mọi lứa tuổi,92700000,791.82,0.85,17379.98,18.75
-49,49, 753,Ung thư thanh quản, VNM,2015, BTSX, Mọi lứa tuổi,92700000,787.54,0.85,25073.87,27.05
-50,50, 860, Rối loạn sử dụng rượu, VNM,2015, BTSX, Mọi lứa tuổi,92700000,785.87,0.85,188703.9,203.56
-51,51, 670, Ung thư tuyến tụy, VNM,2015, BTSX, Mọi lứa tuổi,92700000,764.32,0.82,23229.13,25.06
-52,52, 730, Ung thư buồng trứng, VNM,2015, BTSX, Mọi lứa tuổi,92700000,745.99,0.8,27297.81,29.45
-53,53, 170, Viêm màng não, VNM,2015, BTSX, Mọi lứa tuổi,92700000,709.67,0.77,43654.88,47.09
-54,54, 320, bệnh dại, VNM,2015, BTSX, Mọi lứa tuổi,92700000,649.99,0.7,29716.55,32.06
-55,55, 970, bệnh động kinh, VNM,2015, BTSX, Mọi lứa tuổi,92700000,648.4,0.7,99853.26,107.72
-56,56, 1560," Lửa, nhiệt và các chất nóng", VNM,2015, BTSX, Mọi lứa tuổi,92700000,579.04,0.62,58536.21,63.15
-57,57, 754, Ung thư tuyến giáp, VNM,2015, BTSX, Mọi lứa tuổi,92700000,492.01,0.53,19209.27,20.72
-58,58, 690, Khối u ác tính và các bệnh ung thư da khác, VNM,2015, BTSX, Mọi lứa tuổi,92700000,424.13,0.46,12241.11,13.21
-59,59, 190, Viêm gan B cấp tính, VNM,2015, BTSX, Mọi lứa tuổi,92700000,384.73,0.42,16467.48,17.76
-60,60, 752, Ung thư túi mật và đường mật, VNM,2015, BTSX, Mọi lứa tuổi,92700000,383.78,0.41,10607.96,11.44
-61,61, 1505, Hội chứng trẻ sơ sinh chết đột ngột, VNM,2015, BTSX, Mọi lứa tuổi,92700000,346.87,0.37,31062.34,33.51
-62,62, 160, Uốn ván, VNM,2015, BTSX, Mọi lứa tuổi,92700000,330.97,0.36,17149.97,18.5
-63,63, 50, Bịnh giang mai, VNM,2015, BTSX, Mọi lứa tuổi,92700000,285.89,0.31,25553.54,27.57
-64,64, 755, Ung thư trung biểu mô, VNM,2015, BTSX, Mọi lứa tuổi,92700000,289.39,0.31,9131.58,9.85
-65,65, 186, Viêm gan A cấp tính, VNM,2015, BTSX, Mọi lứa tuổi,92700000,212.21,0.23,9272.12,10.0
-66,66, 811, bệnh thalassemia, VNM,2015, BTSX, Mọi lứa tuổi,92700000,203.1,0.22,47210.37,50.93
-67,67, 1240, Viêm ruột thừa, VNM,2015, BTSX, Mọi lứa tuổi,92700000,205.75,0.22,9766.11,10.54
-68,68, 1244, Bệnh viêm ruột, VNM,2015, BTSX, Mọi lứa tuổi,92700000,192.91,0.21,7080.59,7.64
-69,69, 1350, Viêm khớp dạng thấp, VNM,2015, BTSX, Mọi lứa tuổi,92700000,195.0,0.21,17259.66,18.62
-70,70, 550, Suy dinh dưỡng protein-năng lượng, VNM,2015, BTSX, Mọi lứa tuổi,92700000,138.14,0.15,42904.34,46.28
-71,71, 300, Sốt xuất huyết, VNM,2015, BTSX, Mọi lứa tuổi,92700000,125.25,0.14,16137.58,17.41
-72,72, 980, Bệnh đa xơ cứng, VNM,2015, BTSX, Mọi lứa tuổi,92700000,121.17,0.13,4915.83,5.3
-73,73, 1290, sỏi tiết niệu, VNM,2015, BTSX, Mọi lứa tuổi,92700000,104.6,0.11,7759.08,8.37
-74,74, 200, Viêm gan C cấp tính, VNM,2015, BTSX, Mọi lứa tuổi,92700000,83.6,0.09,2919.52,3.15
-75,75, 742, Ung thư tinh hoàn, VNM,2015, BTSX, Mọi lứa tuổi,92700000,68.18,0.07,2135.42,2.3
-76,76, 1241, Viêm dạ dày và viêm tá tràng, VNM,2015, BTSX, Mọi lứa tuổi,92700000,58.49,0.06,19220.43,20.73
-77,77, 1580, Thảm họa thiên nhiên, VNM,2015, BTSX, Mọi lứa tuổi,92700000,52.33,0.06,8636.21,9.32
-78,78, 16 giờ 30,Bạo lực tập thể và sự can thiệp của pháp luật, VNM,2015, BTSX, Mọi lứa tuổi,92700000,38.36,0.04,2421.76,2.61
-79,79, 150, Bệnh sởi, VNM,2015, BTSX, Mọi lứa tuổi,92700000,36.82,0.04,3331.46,3.59
-80,80, 400, Nhiễm trùng đường hô hấp trên, VNM,2015, BTSX, Mọi lứa tuổi,92700000,34.68,0.04,62333.18,67.24
-81,81, 205, Viêm gan E cấp tính, VNM,2015, BTSX, Mọi lứa tuổi,92700000,25.63,0.03,1192.5,1.29
-82,82, 220, Bệnh sốt rét, VNM,2015, BTSX, Mọi lứa tuổi,92700000,16.16,0.02,2073.38,2.24
-83,83, 285, Bệnh giun sán, VNM,2015, BTSX, Mọi lứa tuổi,92700000,17.65,0.02,21486.71,23.18
-84,84, 340, Bệnh giun đũa, VNM,2015, BTSX, Mọi lứa tuổi,92700000,11.22,0.01,29090.51,31.38
-85,85, 140, bệnh bạch hầu, VNM,2015, BTSX, Mọi lứa tuổi,92700000,4.69,0.01,299.68,0.32
-86,86, 1320, Bệnh phụ khoa, VNM,2015, BTSX, Mọi lứa tuổi,92700000,8.51,0.01,261604.6,282.21
-87,87, 1470, Tình trạng răng miệng, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,193338.3,208.56
-88,88, 1310, Khô khan, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,23501.53,25.35
-89,89, 1280, Tăng sản tuyến tiền liệt lành tính, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,27020.11,29.15
-90,90, 1360, Viêm xương khớp, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,116856.8,126.06
-91,91, 1370, Bệnh gout, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,16429.94,17.72
-92,92, 1380, Đau lưng và cổ, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,662219.0,714.37
-93,93, 990, chứng đau nửa đầu, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,376819.0,406.49
-94,94, 1000, Đau đầu không đau nửa đầu, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,49959.47,53.89
-95,95, 10:30, bệnh tăng nhãn áp, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,11266.3,12.15
-96,96, 1040, Đục thủy tinh thể, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,98010.09,105.73
-97,97, 1050, Lỗi khúc xạ chưa được điều trị, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,354500.2,382.42
-98,98, 1060, Thoái hóa điểm vàng, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,19336.3,20.86
-99,99, 1070, Mất thị lực khác, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,255871.8,276.02
-100,100, 1080, Mất thính lực khác, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,485736.0,523.99
-101,101, 60, Chlamydia, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.97,0.0,4519.31,4.88
-102,102, 70, Bệnh da liểu, VNM,2015, BTSX, Mọi lứa tuổi,92700000,3.18,0.0,2278.08,2.46
-103,103, 80, Trichomonas, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,2279.03,2.46
-104,104, 85, mụn rộp sinh dục, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,3609.36,3.89
-105,105, 230, Bệnh Trypanosomosis Châu Phi, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,0.0,0.0
-106,106, 240, bệnh Chagas, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,0.0,0.0
-107,107, 250, Bệnh sán máng, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,0.0,0.0
-108,108, 260, bệnh leishmania, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,0.0,0.0
-109,109, 270,Giun chỉ bạch huyết, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,25414.11,27.42
-110,110, 280, Bệnh giun chỉ, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,0.0,0.0
-111,111, 350, bệnh lông tóc, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,12770.37,13.78
-112,112, 360, Bệnh giun móc, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,5577.09,6.02
-113,113, 362, Giun sán do thực phẩm, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,15219.34,16.42
-114,114, 365, bệnh phong, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,83.22,0.09
-115,115, 410, Viêm tai giữa, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.73,0.0,28168.07,30.39
-116,116, 295, bệnh Echinococcus, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,6.1,0.01
-117,117, 310, bệnh đau mắt hột, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,1703.03,1.84
-118,118, 315, Sốt vàng, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,0.0,0.0
-119,119, 812, Rối loạn hồng cầu hình liềm và đặc điểm, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.43,0.0,1773.99,1.91
-120,120, 830, Rối loạn trầm cảm, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,355575.7,383.58
-121,121, 840, Rối loạn lưỡng cực, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,73497.35,79.29
-122,122, 850, Tâm thần phân liệt, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,218472.2,235.68
-123,123, 880, Rối loạn lo âu, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,213514.0,230.33
-124,124, 890, Rối loạn ăn uống, VNM,2015, BTSX, Mọi lứa tuổi,92700000,1.72,0.0,19553.49,21.09
-125,125, 900, Tự kỷ và hội chứng Asperger, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,44570.93,48.08
-126,126, 910, Rối loạn hành vi thời thơ ấu, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,60656.14,65.43
-127,127, 920, Khuyết tật trí tuệ vô căn, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,67065.09,72.35
-128,128, 560, Thiêu I ôt, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,16004.62,17.26
-129,129, 570, Thiếu vitamin A, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,3657.69,3.95
-130,130, 580, Thiếu máu thiếu sắt, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.0,0.0,146191.3,157.7
+,Mã số, Gây ra, ISO3, Năm, Tình dục, Nhóm tuổi, Dân số, Tử vong, Tỷ lệ tử vong trên 100.000 dân, DALY, Tỷ lệ DALY trên 100.000 dân
+0,1140, Đột quỵ, VNM,2015, BTSX, Mọi lứa tuổi,92700000,156461.8,168.78,3119777,3365.46
+1, 11 giờ 30, Bệnh nhồi máu cơ tim, VNM,2015, BTSX, Mọi lứa tuổi,92700000,79955.46,86.25,1422402,1534.41
+2,1180, Bệnh phổi tắc nghẽn mãn tính, VNM,2015, BTSX, Mọi lứa tuổi,92700000,33450.32,36.08,706146.5,761.75
+3,800, Đái tháo đường, VNM,2015, BTSX, Mọi lứa tuổi,92700000,29034.58,31.32,896187.2,966.76
+4,390, Nhiễm trùng hô hấp dưới, VNM,2015, BTSX, Mọi lứa tuổi,92700000,27164,29.3,775077.5,836.11
+5,950, Bệnh Alzheimer và các bệnh mất trí nhớ khác, VNM,2015, BTSX, Mọi lứa tuổi,92700000,25963.74,28.01,375936.4,405.54
+6,660, Ung thư gan, VNM,2015, BTSX, Mọi lứa tuổi,92700000,25718.88,27.74,898431.9,969.18
+7, 15:30, Chấn thương đường bộ, VNM,2015, BTSX, Mọi lứa tuổi,92700000,23582,25.44,1284261,1385.39
+8,1270, Bệnh thận, VNM,2015, BTSX, Mọi lứa tuổi,92700000,21004.59,22.66,538212.1,580.6
+9, 12h30, Bệnh xơ gan, VNM,2015, BTSX, Mọi lứa tuổi,92700000,20759.54,22.39,585762.4,631.89
+10,1120, Bệnh tim tăng huyết áp, VNM,2015, BTSX, Mọi lứa tuổi,92700000,18602.96,20.07,341534,368.43
+11,680," Khí quản, phế quản, ung thư phổi", VNM,2015, BTSX, Mọi lứa tuổi,92700000,18309.56,19.75,510648.7,550.86
+12,640, Ung thư dạ dày, VNM,2015, BTSX, Mọi lứa tuổi,92700000,13951.53,15.05,375886.9,405.49
+13,30, bệnh lao, VNM,2015, BTSX, Mọi lứa tuổi,92700000,13908.72,15,723336.6,780.3
+14,1550, Ngã, VNM,2015, BTSX, Mọi lứa tuổi,92700000,13611.37,14.68,403223.6,434.98
+15,490, Điều kiện sơ sinh, VNM,2015, BTSX, Mọi lứa tuổi,92700000,12772.15,13.78,1358253,1465.21
+16,1190, Hen suyễn, VNM,2015, BTSX, Mọi lứa tuổi,92700000,8180.52,8.82,255296.7,275.4
+17,1400, Dị tật bẩm sinh, VNM,2015, BTSX, Mọi lứa tuổi,92700000,7850.33,8.47,759819.6,819.65
+18,1610, Tự làm hại bản thân, VNM,2015, BTSX, Mọi lứa tuổi,92700000,7100.14,7.66,317570,342.58
+19,650, Ung thư ruột kết và trực tràng, VNM,2015, BTSX, Mọi lứa tuổi,92700000,7038.31,7.59,188059.3,202.87
+20,620, Ung thư miệng và vòm họng, VNM,2015, BTSX, Mọi lứa tuổi,92700000,6332.99,6.83,197735.9,213.31
+21,100,HIV/AIDS, VNM,2015, BTSX, Mọi lứa tuổi,92700000,5906,6.37,319284.6,344.43
+22,1570, Đuối nước, VNM,2015, BTSX, Mọi lứa tuổi,92700000,5353.01,5.77,298841.7,322.38
+23,700, Ung thư vú, VNM,2015, BTSX, Mọi lứa tuổi,92700000,5327.68,5.75,191542.5,206.63
+24,1150," Bệnh cơ tim, viêm cơ tim, viêm nội tâm mạc", VNM,2015, BTSX, Mọi lứa tuổi,92700000,4954.41,5.34,120272.4,129.74
+25,110, Bệnh tiêu chảy, VNM,2015, BTSX, Mọi lứa tuổi,92700000,4941.7,5.33,336990.7,363.53
+26,960, bệnh Parkinson, VNM,2015, BTSX, Mọi lứa tuổi,92700000,4888.8,5.27,77400.79,83.5
+27,770, Bệnh bạch cầu, VNM,2015, BTSX, Mọi lứa tuổi,92700000,4768.98,5.14,234463.9,252.93
+28,751, Ung thư não và hệ thần kinh, VNM,2015, BTSX, Mọi lứa tuổi,92700000,2954.37,3.19,134976.6,145.61
+29,760," U lympho, đa u tủy", VNM,2015, BTSX, Mọi lứa tuổi,92700000,2618.64,2.82,91437.86,98.64
+30,710, Ung thư tử cung cổ tử cung, VNM,2015, BTSX, Mọi lứa tuổi,92700000,2250.2,2.43,71485.84,77.12
+31,1242, Liệt ruột và tắc ruột, VNM,2015, BTSX, Mọi lứa tuổi,92700000,2251.91,2.43,60186.91,64.93
+32,630, Ung thư thực quản, VNM,2015, BTSX, Mọi lứa tuổi,92700000,2040.82,2.2,61462.85,66.3
+33,1246, Bệnh túi mật và đường mật, VNM,2015, BTSX, Mọi lứa tuổi,92700000,1903.92,2.05,56195.52,60.62
+34,1575, Tiếp xúc với lực cơ học, VNM,2015, BTSX, Mọi lứa tuổi,92700000,1883.25,2.03,150079.4,161.9
+35,740, Ung thư tuyến tiền liệt, VNM,2015, BTSX, Mọi lứa tuổi,92700000,1739.97,1.88,50223.12,54.18
+36,1110, Huyết áp thấp, VNM,2015, BTSX, Mọi lứa tuổi,92700000,1671.37,1.8,44021.45,47.49
+37,1620, Bạo lực giữa các cá nhân, VNM,2015, BTSX, Mọi lứa tuổi,92700000,1662.94,1.79,140804.2,151.89
+38,180, Viêm não, VNM,2015, BTSX, Mọi lứa tuổi,92700000,1588.49,1.71,76132.82,82.13
+39, 13:30, Bệnh ngoài da, VNM,2015, BTSX, Mọi lứa tuổi,92700000,1306.04,1.41,282861.2,305.14
+40,870, Rối loạn sử dụng ma túy, VNM,2015, BTSX, Mọi lứa tuổi,92700000,1187.52,1.28,180158.5,194.35
+41,745, Ung thư thận, VNM,2015, BTSX, Mọi lứa tuổi,92700000,1172.7,1.27,42715.19,46.08
+42,720, Ung thư tử cung, VNM,2015, BTSX, Mọi lứa tuổi,92700000,1043.69,1.13,34514.22,37.23
+43,1248, Viêm tụy, VNM,2015, BTSX, Mọi lứa tuổi,92700000,981.64,1.06,28813.5,31.08
+44,1220, Bệnh viêm loét dạ dày, VNM,2015, BTSX, Mọi lứa tuổi,92700000,924.69,1,15541.6,16.77
+45,1540, Ngộ độc, VNM,2015, BTSX, Mọi lứa tuổi,92700000,839.3,0.91,38921.53,41.99
+46,130, Bịnh ho gà, VNM,2015, BTSX, Mọi lứa tuổi,92700000,818.29,0.88,73573.3,79.37
+47,420, Điều kiện của mẹ, VNM,2015, BTSX, Mọi lứa tuổi,92700000,800.94,0.86,57584.83,62.12
+48,750, Ung thư bàng quang, VNM,2015, BTSX, Mọi lứa tuổi,92700000,791.82,0.85,17379.98,18.75
+49,753,Ung thư thanh quản, VNM,2015, BTSX, Mọi lứa tuổi,92700000,787.54,0.85,25073.87,27.05
+50,860, Rối loạn sử dụng rượu, VNM,2015, BTSX, Mọi lứa tuổi,92700000,785.87,0.85,188703.9,203.56
+51,670, Ung thư tuyến tụy, VNM,2015, BTSX, Mọi lứa tuổi,92700000,764.32,0.82,23229.13,25.06
+52,730, Ung thư buồng trứng, VNM,2015, BTSX, Mọi lứa tuổi,92700000,745.99,0.8,27297.81,29.45
+53,170, Viêm màng não, VNM,2015, BTSX, Mọi lứa tuổi,92700000,709.67,0.77,43654.88,47.09
+54,320, bệnh dại, VNM,2015, BTSX, Mọi lứa tuổi,92700000,649.99,0.7,29716.55,32.06
+55,970, bệnh động kinh, VNM,2015, BTSX, Mọi lứa tuổi,92700000,648.4,0.7,99853.26,107.72
+56,1560," Lửa, nhiệt và các chất nóng", VNM,2015, BTSX, Mọi lứa tuổi,92700000,579.04,0.62,58536.21,63.15
+57,754, Ung thư tuyến giáp, VNM,2015, BTSX, Mọi lứa tuổi,92700000,492.01,0.53,19209.27,20.72
+58,690, Khối u ác tính và các bệnh ung thư da khác, VNM,2015, BTSX, Mọi lứa tuổi,92700000,424.13,0.46,12241.11,13.21
+59,190, Viêm gan B cấp tính, VNM,2015, BTSX, Mọi lứa tuổi,92700000,384.73,0.42,16467.48,17.76
+60,752, Ung thư túi mật và đường mật, VNM,2015, BTSX, Mọi lứa tuổi,92700000,383.78,0.41,10607.96,11.44
+61,1505, Hội chứng trẻ sơ sinh chết đột ngột, VNM,2015, BTSX, Mọi lứa tuổi,92700000,346.87,0.37,31062.34,33.51
+62,160, Uốn ván, VNM,2015, BTSX, Mọi lứa tuổi,92700000,330.97,0.36,17149.97,18.5
+63,50, Bịnh giang mai, VNM,2015, BTSX, Mọi lứa tuổi,92700000,285.89,0.31,25553.54,27.57
+64,755, Ung thư trung biểu mô, VNM,2015, BTSX, Mọi lứa tuổi,92700000,289.39,0.31,9131.58,9.85
+65,186, Viêm gan A cấp tính, VNM,2015, BTSX, Mọi lứa tuổi,92700000,212.21,0.23,9272.12,10
+66,811, bệnh thalassemia, VNM,2015, BTSX, Mọi lứa tuổi,92700000,203.1,0.22,47210.37,50.93
+67,1240, Viêm ruột thừa, VNM,2015, BTSX, Mọi lứa tuổi,92700000,205.75,0.22,9766.11,10.54
+68,1244, Bệnh viêm ruột, VNM,2015, BTSX, Mọi lứa tuổi,92700000,192.91,0.21,7080.59,7.64
+69,1350, Viêm khớp dạng thấp, VNM,2015, BTSX, Mọi lứa tuổi,92700000,195,0.21,17259.66,18.62
+70,550, Suy dinh dưỡng protein-năng lượng, VNM,2015, BTSX, Mọi lứa tuổi,92700000,138.14,0.15,42904.34,46.28
+71,300, Sốt xuất huyết, VNM,2015, BTSX, Mọi lứa tuổi,92700000,125.25,0.14,16137.58,17.41
+72,980, Bệnh đa xơ cứng, VNM,2015, BTSX, Mọi lứa tuổi,92700000,121.17,0.13,4915.83,5.3
+73,1290, sỏi tiết niệu, VNM,2015, BTSX, Mọi lứa tuổi,92700000,104.6,0.11,7759.08,8.37
+74,200, Viêm gan C cấp tính, VNM,2015, BTSX, Mọi lứa tuổi,92700000,83.6,0.09,2919.52,3.15
+75,742, Ung thư tinh hoàn, VNM,2015, BTSX, Mọi lứa tuổi,92700000,68.18,0.07,2135.42,2.3
+76,1241, Viêm dạ dày và viêm tá tràng, VNM,2015, BTSX, Mọi lứa tuổi,92700000,58.49,0.06,19220.43,20.73
+77,1580, Thảm họa thiên nhiên, VNM,2015, BTSX, Mọi lứa tuổi,92700000,52.33,0.06,8636.21,9.32
+78, 16 giờ 30,Bạo lực tập thể và sự can thiệp của pháp luật, VNM,2015, BTSX, Mọi lứa tuổi,92700000,38.36,0.04,2421.76,2.61
+79,150, Bệnh sởi, VNM,2015, BTSX, Mọi lứa tuổi,92700000,36.82,0.04,3331.46,3.59
+80,400, Nhiễm trùng đường hô hấp trên, VNM,2015, BTSX, Mọi lứa tuổi,92700000,34.68,0.04,62333.18,67.24
+81,205, Viêm gan E cấp tính, VNM,2015, BTSX, Mọi lứa tuổi,92700000,25.63,0.03,1192.5,1.29
+82,220, Bệnh sốt rét, VNM,2015, BTSX, Mọi lứa tuổi,92700000,16.16,0.02,2073.38,2.24
+83,285, Bệnh giun sán, VNM,2015, BTSX, Mọi lứa tuổi,92700000,17.65,0.02,21486.71,23.18
+84,340, Bệnh giun đũa, VNM,2015, BTSX, Mọi lứa tuổi,92700000,11.22,0.01,29090.51,31.38
+85,140, bệnh bạch hầu, VNM,2015, BTSX, Mọi lứa tuổi,92700000,4.69,0.01,299.68,0.32
+86,1320, Bệnh phụ khoa, VNM,2015, BTSX, Mọi lứa tuổi,92700000,8.51,0.01,261604.6,282.21
+87,1470, Tình trạng răng miệng, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,193338.3,208.56
+88,1310, Khô khan, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,23501.53,25.35
+89,1280, Tăng sản tuyến tiền liệt lành tính, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,27020.11,29.15
+90,1360, Viêm xương khớp, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,116856.8,126.06
+91,1370, Bệnh gout, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,16429.94,17.72
+92,1380, Đau lưng và cổ, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,662219,714.37
+93,990, chứng đau nửa đầu, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,376819,406.49
+94,1000, Đau đầu không đau nửa đầu, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,49959.47,53.89
+95, 10:30, bệnh tăng nhãn áp, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,11266.3,12.15
+96,1040, Đục thủy tinh thể, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,98010.09,105.73
+97,1050, Lỗi khúc xạ chưa được điều trị, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,354500.2,382.42
+98,1060, Thoái hóa điểm vàng, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,19336.3,20.86
+99,1070, Mất thị lực khác, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,255871.8,276.02
+100,1080, Mất thính lực khác, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,485736,523.99
+101,60, Chlamydia, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.97,0,4519.31,4.88
+102,70, Bệnh da liểu, VNM,2015, BTSX, Mọi lứa tuổi,92700000,3.18,0,2278.08,2.46
+103,80, Trichomonas, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,2279.03,2.46
+104,85, mụn rộp sinh dục, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,3609.36,3.89
+105,230, Bệnh Trypanosomosis Châu Phi, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,0,0
+106,240, bệnh Chagas, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,0,0
+107,250, Bệnh sán máng, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,0,0
+108,260, bệnh leishmania, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,0,0
+109,270,Giun chỉ bạch huyết, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,25414.11,27.42
+110,280, Bệnh giun chỉ, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,0,0
+111,350, bệnh lông tóc, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,12770.37,13.78
+112,360, Bệnh giun móc, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,5577.09,6.02
+113,362, Giun sán do thực phẩm, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,15219.34,16.42
+114,365, bệnh phong, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,83.22,0.09
+115,410, Viêm tai giữa, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.73,0,28168.07,30.39
+116,295, bệnh Echinococcus, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,6.1,0.01
+117,310, bệnh đau mắt hột, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,1703.03,1.84
+118,315, Sốt vàng, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,0,0
+119,812, Rối loạn hồng cầu hình liềm và đặc điểm, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0.43,0,1773.99,1.91
+120,830, Rối loạn trầm cảm, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,355575.7,383.58
+121,840, Rối loạn lưỡng cực, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,73497.35,79.29
+122,850, Tâm thần phân liệt, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,218472.2,235.68
+123,880, Rối loạn lo âu, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,213514,230.33
+124,890, Rối loạn ăn uống, VNM,2015, BTSX, Mọi lứa tuổi,92700000,1.72,0,19553.49,21.09
+125,900, Tự kỷ và hội chứng Asperger, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,44570.93,48.08
+126,910, Rối loạn hành vi thời thơ ấu, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,60656.14,65.43
+127,920, Khuyết tật trí tuệ vô căn, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,67065.09,72.35
+128,560, Thiêu I ôt, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,16004.62,17.26
+129,570, Thiếu vitamin A, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,3657.69,3.95
+130,580, Thiếu máu thiếu sắt, VNM,2015, BTSX, Mọi lứa tuổi,92700000,0,0,146191.3,157.7

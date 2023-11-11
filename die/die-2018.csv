@@ -1,132 +1,132 @@
-,Unnamed: 0,Mã số, Gây ra, ISO3, Năm, Tình dục, Nhóm tuổi, Dân số, Tử vong, Tỷ lệ tử vong trên 100.000 dân, DALY, Tỷ lệ DALY trên 100.000 dân
-0,0, 1140, Đột quỵ, VNM,2018, BTSX, Mọi lứa tuổi,95500000,158811.1,166.29,3217645.0,3369.26
-1,1, 11 giờ 30, Bệnh nhồi máu cơ tim, VNM,2018, BTSX, Mọi lứa tuổi,95500000,89418.49,93.63,1587971.0,1662.8
-2,2, 1180, Bệnh phổi tắc nghẽn mãn tính, VNM,2018, BTSX, Mọi lứa tuổi,95500000,35492.8,37.17,765134.2,801.19
-3,3, 800, Đái tháo đường, VNM,2018, BTSX, Mọi lứa tuổi,95500000,32751.47,34.29,1029188.0,1077.68
-4,4, 950, Bệnh Alzheimer và các bệnh mất trí nhớ khác, VNM,2018, BTSX, Mọi lứa tuổi,95500000,28812.07,30.17,413319.9,432.8
-5,5, 390, Nhiễm trùng hô hấp dưới, VNM,2018, BTSX, Mọi lứa tuổi,95500000,28060.07,29.38,765967.6,802.06
-6,6, 15:30, Chấn thương đường bộ, VNM,2018, BTSX, Mọi lứa tuổi,95500000,27868.15,29.18,1455134.0,1523.7
-7,7, 660, Ung thư gan, VNM,2018, BTSX, Mọi lứa tuổi,95500000,25173.39,26.36,862371.8,903.01
-8,8, 1270, Bệnh thận, VNM,2018, BTSX, Mọi lứa tuổi,95500000,24341.1,25.49,606948.5,635.55
-9,9, 12h30, Bệnh xơ gan, VNM,2018, BTSX, Mọi lứa tuổi,95500000,23297.69,24.4,650237.5,680.88
-10,10, 680," Khí quản, phế quản, ung thư phổi", VNM,2018, BTSX, Mọi lứa tuổi,95500000,20499.92,21.47,566839.9,593.55
-11,11, 1120, Bệnh tim tăng huyết áp, VNM,2018, BTSX, Mọi lứa tuổi,95500000,19619.58,20.54,360838.8,377.84
-12,12, 1550, Ngã, VNM,2018, BTSX, Mọi lứa tuổi,95500000,15115.83,15.83,442116.7,462.95
-13,13, 640, Ung thư dạ dày, VNM,2018, BTSX, Mọi lứa tuổi,95500000,14856.47,15.56,396728.6,415.42
-14,14, 490, Điều kiện sơ sinh, VNM,2018, BTSX, Mọi lứa tuổi,95500000,11991.71,12.56,1288699.0,1349.42
-15,15, 30, bệnh lao, VNM,2018, BTSX, Mọi lứa tuổi,95500000,10519.2,11.01,559460.7,585.82
-16,16, 1190, Hen suyễn, VNM,2018, BTSX, Mọi lứa tuổi,95500000,8200.85,8.59,263581.7,276.0
-17,17, 650, Ung thư ruột kết và trực tràng, VNM,2018, BTSX, Mọi lứa tuổi,95500000,7943.93,8.32,211616.3,221.59
-18,18, 1400, Dị tật bẩm sinh, VNM,2018, BTSX, Mọi lứa tuổi,95500000,7574.16,7.93,735870.2,770.54
-19,19, 1610, Tự làm hại bản thân, VNM,2018, BTSX, Mọi lứa tuổi,95500000,7266.33,7.61,313678.8,328.46
-20,20, 620, Ung thư miệng và vòm họng, VNM,2018, BTSX, Mọi lứa tuổi,95500000,6903.2,7.23,213235.3,223.28
-21,21, 700,Ung thư vú, VNM,2018, BTSX, Mọi lứa tuổi,95500000,5980.94,6.26,214712.9,224.83
-22,22, 1570, Đuối nước, VNM,2018, BTSX, Mọi lứa tuổi,95500000,5334.08,5.59,288725.5,302.33
-23,23, 1150," Bệnh cơ tim, viêm cơ tim, viêm nội tâm mạc", VNM,2018, BTSX, Mọi lứa tuổi,95500000,5292.43,5.54,125170.6,131.07
-24,24, 960, bệnh Parkinson, VNM,2018, BTSX, Mọi lứa tuổi,95500000,5253.74,5.5,83533.08,87.47
-25,25, 100, HIV/AIDS, VNM,2018, BTSX, Mọi lứa tuổi,95500000,4981.41,5.22,263831.6,276.26
-26,26, 770, Bệnh bạch cầu, VNM,2018, BTSX, Mọi lứa tuổi,95500000,4878.86,5.11,234510.2,245.56
-27,27, 110, Bệnh tiêu chảy, VNM,2018, BTSX, Mọi lứa tuổi,95500000,4727.6,4.95,332129.5,347.78
-28,28, 751, Ung thư não và hệ thần kinh, VNM,2018, BTSX, Mọi lứa tuổi,95500000,3112.95,3.26,139243.8,145.81
-29,29, 760," U lympho, đa u tủy", VNM,2018, BTSX, Mọi lứa tuổi,95500000,2882.37,3.02,98838.84,103.5
-30,30, 1242, Liệt ruột và tắc ruột, VNM,2018, BTSX, Mọi lứa tuổi,95500000,2456.84,2.57,65427.54,68.51
-31,31, 710, Ung thư tử cung cổ tử cung, VNM,2018, BTSX, Mọi lứa tuổi,95500000,2354.12,2.47,74778.69,78.3
-32,32, 630, Ung thư thực quản, VNM,2018, BTSX, Mọi lứa tuổi,95500000,2208.59,2.31,65845.46,68.95
-33,33, 1246, Bệnh túi mật và đường mật, VNM,2018, BTSX, Mọi lứa tuổi,95500000,2053.52,2.15,60438.54,63.29
-34,34, 1575, Tiếp xúc với lực cơ học, VNM,2018, BTSX, Mọi lứa tuổi,95500000,1891.71,1.98,152583.2,159.77
-35,35, 740, Ung thư tuyến tiền liệt, VNM,2018, BTSX, Mọi lứa tuổi,95500000,1876.06,1.96,53631.4,56.16
-36,36, 1620, Bạo lực giữa các cá nhân, VNM,2018, BTSX, Mọi lứa tuổi,95500000,1753.42,1.84,148881.8,155.9
-37,37, 1110, Huyết áp thấp, VNM,2018, BTSX, Mọi lứa tuổi,95500000,1713.95,1.79,44744.02,46.85
-38,38, 180, Viêm não, VNM,2018, BTSX, Mọi lứa tuổi,95500000,1604.33,1.68,73335.15,76.79
-39,39, 13:30, Bệnh ngoài da, VNM,2018, BTSX, Mọi lứa tuổi,95500000,1475.94,1.55,291915.9,305.67
-40,40, 870, Rối loạn sử dụng ma túy, VNM,2018, BTSX, Mọi lứa tuổi,95500000,1325.14,1.39,189192.2,198.11
-41,41, 745, Ung thư thận, VNM,2018, BTSX, Mọi lứa tuổi,95500000,1310.34,1.37,46933.62,49.15
-42,42, 720, Ung thư tử cung, VNM,2018, BTSX, Mọi lứa tuổi,95500000,1128.94,1.18,37236.82,38.99
-43,43, 1248, Viêm tụy, VNM,2018, BTSX, Mọi lứa tuổi,95500000,1064.92,1.12,30656.39,32.1
-44,44, 1220, Bệnh viêm loét dạ dày, VNM,2018, BTSX, Mọi lứa tuổi,95500000,959.98,1.01,16303.68,17.07
-45,45, 670, Ung thư tuyến tụy, VNM,2018, BTSX, Mọi lứa tuổi,95500000,886.43,0.93,26742.97,28.0
-46,46, 750, Ung thư bàng quang, VNM,2018, BTSX, Mọi lứa tuổi,95500000,872.98,0.91,19301.33,20.21
-47,47, 753, Ung thư thanh quản, VNM,2018, BTSX, Mọi lứa tuổi,95500000,854.61,0.89,27031.33,28.31
-48,48, 860, Rối loạn sử dụng rượu, VNM,2018, BTSX, Mọi lứa tuổi,95500000,852.41,0.89,197407.2,206.71
-49,49, 1540,Ngộ độc, VNM,2018, BTSX, Mọi lứa tuổi,95500000,841.62,0.88,37813.56,39.6
-50,50, 730, Ung thư buồng trứng, VNM,2018, BTSX, Mọi lứa tuổi,95500000,835.76,0.88,30247.05,31.67
-51,51, 130, Bịnh ho gà, VNM,2018, BTSX, Mọi lứa tuổi,95500000,801.01,0.84,72070.61,75.47
-52,52, 420, Điều kiện của mẹ, VNM,2018, BTSX, Mọi lứa tuổi,95500000,779.98,0.82,54405.06,56.97
-53,53, 170, Viêm màng não, VNM,2018, BTSX, Mọi lứa tuổi,95500000,666.31,0.7,40154.35,42.05
-54,54, 1560," Lửa, nhiệt và các chất nóng", VNM,2018, BTSX, Mọi lứa tuổi,95500000,609.75,0.64,60999.47,63.87
-55,55, 970, bệnh động kinh, VNM,2018, BTSX, Mọi lứa tuổi,95500000,600.77,0.63,104330.1,109.25
-56,56, 320, bệnh dại, VNM,2018, BTSX, Mọi lứa tuổi,95500000,533.78,0.56,23766.56,24.89
-57,57, 754, Ung thư tuyến giáp, VNM,2018, BTSX, Mọi lứa tuổi,95500000,517.2,0.54,20228.44,21.18
-58,58, 690, Khối u ác tính và các bệnh ung thư da khác, VNM,2018, BTSX, Mọi lứa tuổi,95500000,456.87,0.48,13030.96,13.64
-59,59, 752, Ung thư túi mật và đường mật, VNM,2018, BTSX, Mọi lứa tuổi,95500000,418.98,0.44,11522.83,12.07
-60,60, 190, Viêm gan B cấp tính, VNM,2018, BTSX, Mọi lứa tuổi,95500000,383.47,0.4,16040.62,16.8
-61,61, 1505, Hội chứng trẻ sơ sinh chết đột ngột, VNM,2018, BTSX, Mọi lứa tuổi,95500000,365.99,0.38,32773.92,34.32
-62,62, 50, Bịnh giang mai, VNM,2018, BTSX, Mọi lứa tuổi,95500000,311.98,0.33,27899.36,29.21
-63,63, 755, Ung thư trung biểu mô, VNM,2018, BTSX, Mọi lứa tuổi,95500000,305.94,0.32,9551.36,10.0
-64,64, 160, Uốn ván, VNM,2018, BTSX, Mọi lứa tuổi,95500000,299.39,0.31,15900.52,16.65
-65,65, 1350, Viêm khớp dạng thấp, VNM,2018, BTSX, Mọi lứa tuổi,95500000,216.37,0.23,19118.59,20.02
-66,66, 1240, Viêm ruột thừa, VNM,2018, BTSX, Mọi lứa tuổi,95500000,205.69,0.22,9539.85,9.99
-67,67, 1244, Bệnh viêm ruột, VNM,2018, BTSX, Mọi lứa tuổi,95500000,206.36,0.22,7481.28,7.83
-68,68, 811, bệnh thalassemia, VNM,2018, BTSX, Mọi lứa tuổi,95500000,191.96,0.2,45832.89,47.99
-69,69, 186, Viêm gan A cấp tính, VNM,2018, BTSX, Mọi lứa tuổi,95500000,185.73,0.19,8356.53,8.75
-70,70, 150, Bệnh sởi, VNM,2018, BTSX, Mọi lứa tuổi,95500000,172.16,0.18,15148.12,15.86
-71,71, 300, Sốt xuất huyết, VNM,2018, BTSX, Mọi lứa tuổi,95500000,132.97,0.14,17674.59,18.51
-72,72, 980, Bệnh đa xơ cứng, VNM,2018, BTSX, Mọi lứa tuổi,95500000,132.24,0.14,5272.92,5.52
-73,73, 1580, Thảm họa thiên nhiên, VNM,2018, BTSX, Mọi lứa tuổi,95500000,135.66,0.14,12805.41,13.41
-74,74, 16 giờ 30, Bạo lực tập thể và sự can thiệp của pháp luật, VNM,2018, BTSX, Mọi lứa tuổi,95500000,121.13,0.13,7048.17,7.38
-75,75, 1290, sỏi tiết niệu, VNM,2018, BTSX, Mọi lứa tuổi,95500000,122.76,0.13,8734.84,9.15
-76,76, 550, Suy dinh dưỡng protein-năng lượng, VNM,2018, BTSX, Mọi lứa tuổi,95500000,123.88,0.13,45680.74,47.83
-77,77, 742, Ung thư tinh hoàn, VNM,2018, BTSX, Mọi lứa tuổi,95500000,73.72,0.08,2326.16,2.44
-78,78, 200, Viêm gan C cấp tính, VNM,2018, BTSX, Mọi lứa tuổi,95500000,80.09,0.08,2749.4,2.88
-79,79, 1241,Viêm dạ dày và viêm tá tràng, VNM,2018, BTSX, Mọi lứa tuổi,95500000,61.95,0.06,20802.17,21.78
-80,80, 400, Nhiễm trùng đường hô hấp trên, VNM,2018, BTSX, Mọi lứa tuổi,95500000,34.67,0.04,64078.53,67.1
-81,81, 295, bệnh Echinococcus, VNM,2018, BTSX, Mọi lứa tuổi,95500000,32.97,0.03,1078.51,1.13
-82,82, 205, Viêm gan E cấp tính, VNM,2018, BTSX, Mọi lứa tuổi,95500000,25.31,0.03,1136.55,1.19
-83,83, 285, Bệnh giun sán, VNM,2018, BTSX, Mọi lứa tuổi,95500000,14.54,0.02,21497.13,22.51
-84,84, 220, Bệnh sốt rét, VNM,2018, BTSX, Mọi lứa tuổi,95500000,9.14,0.01,1450.35,1.52
-85,85, 340, Bệnh giun đũa, VNM,2018, BTSX, Mọi lứa tuổi,95500000,9.7,0.01,26960.02,28.23
-86,86, 1320, Bệnh phụ khoa, VNM,2018, BTSX, Mọi lứa tuổi,95500000,8.95,0.01,267543.6,280.15
-87,87, 1470, Tình trạng răng miệng, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,205006.1,214.67
-88,88, 1310, Khô khan, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,23629.93,24.74
-89,89, 1280, Tăng sản tuyến tiền liệt lành tính, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,30744.84,32.19
-90,90, 1360, Viêm xương khớp, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,129496.5,135.6
-91,91, 1370, Bệnh gout, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,18092.4,18.94
-92,92, 1380, Đau lưng và cổ, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,707415.4,740.75
-93,93, 990, chứng đau nửa đầu, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,386828.4,405.06
-94,94, 1000, Đau đầu không đau nửa đầu, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,51853.81,54.3
-95,95, 10:30, bệnh tăng nhãn áp, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,11389.76,11.93
-96,96, 1040, Đục thủy tinh thể, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,101056.9,105.82
-97,97, 1050, Lỗi khúc xạ chưa được điều trị, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,364935.2,382.13
-98,98, 1060, Thoái hóa điểm vàng, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,20713.71,21.69
-99,99, 1070, Mất thị lực khác, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,270168.1,282.9
-100,100, 1080, Mất thính lực khác, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,510712.3,534.78
-101,101, 230, Bệnh Trypanosomosis Châu Phi, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,0.0,0.0
-102,102, 240, bệnh Chagas, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,0.0,0.0
-103,103, 250, Bệnh sán máng, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,0.0,0.0
-104,104, 260, bệnh leishmania, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,0.0,0.0
-105,105, 270, Giun chỉ bạch huyết, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,28640.14,29.99
-106,106, 280, Bệnh giun chỉ, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,0.0,0.0
-107,107, 60, Chlamydia, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.98,0.0,4538.12,4.75
-108,108, 70, Bệnh da liểu, VNM,2018, BTSX, Mọi lứa tuổi,95500000,3.2,0.0,2218.1,2.32
-109,109, 80, Trichomonas, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,2234.45,2.34
-110,110, 85,mụn rộp sinh dục, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,3784.55,3.96
-111,111, 140, bệnh bạch hầu, VNM,2018, BTSX, Mọi lứa tuổi,95500000,3.76,0.0,240.56,0.25
-112,112, 350, bệnh lông tóc, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,13016.65,13.63
-113,113, 360, Bệnh giun móc, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,3919.34,4.1
-114,114, 362, Giun sán do thực phẩm, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,15619.76,16.36
-115,115, 365, bệnh phong, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,88.87,0.09
-116,116, 410, Viêm tai giữa, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.66,0.0,27860.2,29.17
-117,117, 310, bệnh đau mắt hột, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,1466.5,1.54
-118,118, 315, Sốt vàng, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,0.0,0.0
-119,119, 812, Rối loạn hồng cầu hình liềm và đặc điểm, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.4,0.0,1681.27,1.76
-120,120, 830, Rối loạn trầm cảm, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,370587.0,388.05
-121,121, 840, Rối loạn lưỡng cực, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,75817.26,79.39
-122,122, 850, Tâm thần phân liệt, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,227221.5,237.93
-123,123, 880, Rối loạn lo âu, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,219088.5,229.41
-124,124, 890, Rối loạn ăn uống, VNM,2018, BTSX, Mọi lứa tuổi,95500000,1.85,0.0,20498.81,21.46
-125,125, 900, Tự kỷ và hội chứng Asperger, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,45704.25,47.86
-126,126, 910, Rối loạn hành vi thời thơ ấu, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,61293.25,64.18
-127,127, 920, Khuyết tật trí tuệ vô căn, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,61967.38,64.89
-128,128, 560, Thiêu I ôt, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,14996.2,15.7
-129,129, 570, Thiếu vitamin A, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,3125.03,3.27
-130,130, 580, Thiếu máu thiếu sắt, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.0,0.0,142888.8,149.62
+,Mã số, Gây ra, ISO3, Năm, Tình dục, Nhóm tuổi, Dân số, Tử vong, Tỷ lệ tử vong trên 100.000 dân, DALY, Tỷ lệ DALY trên 100.000 dân
+0,1140, Đột quỵ, VNM,2018, BTSX, Mọi lứa tuổi,95500000,158811.1,166.29,3217645,3369.26
+1, 11 giờ 30, Bệnh nhồi máu cơ tim, VNM,2018, BTSX, Mọi lứa tuổi,95500000,89418.49,93.63,1587971,1662.8
+2,1180, Bệnh phổi tắc nghẽn mãn tính, VNM,2018, BTSX, Mọi lứa tuổi,95500000,35492.8,37.17,765134.2,801.19
+3,800, Đái tháo đường, VNM,2018, BTSX, Mọi lứa tuổi,95500000,32751.47,34.29,1029188,1077.68
+4,950, Bệnh Alzheimer và các bệnh mất trí nhớ khác, VNM,2018, BTSX, Mọi lứa tuổi,95500000,28812.07,30.17,413319.9,432.8
+5,390, Nhiễm trùng hô hấp dưới, VNM,2018, BTSX, Mọi lứa tuổi,95500000,28060.07,29.38,765967.6,802.06
+6, 15:30, Chấn thương đường bộ, VNM,2018, BTSX, Mọi lứa tuổi,95500000,27868.15,29.18,1455134,1523.7
+7,660, Ung thư gan, VNM,2018, BTSX, Mọi lứa tuổi,95500000,25173.39,26.36,862371.8,903.01
+8,1270, Bệnh thận, VNM,2018, BTSX, Mọi lứa tuổi,95500000,24341.1,25.49,606948.5,635.55
+9, 12h30, Bệnh xơ gan, VNM,2018, BTSX, Mọi lứa tuổi,95500000,23297.69,24.4,650237.5,680.88
+10,680," Khí quản, phế quản, ung thư phổi", VNM,2018, BTSX, Mọi lứa tuổi,95500000,20499.92,21.47,566839.9,593.55
+11,1120, Bệnh tim tăng huyết áp, VNM,2018, BTSX, Mọi lứa tuổi,95500000,19619.58,20.54,360838.8,377.84
+12,1550, Ngã, VNM,2018, BTSX, Mọi lứa tuổi,95500000,15115.83,15.83,442116.7,462.95
+13,640, Ung thư dạ dày, VNM,2018, BTSX, Mọi lứa tuổi,95500000,14856.47,15.56,396728.6,415.42
+14,490, Điều kiện sơ sinh, VNM,2018, BTSX, Mọi lứa tuổi,95500000,11991.71,12.56,1288699,1349.42
+15,30, bệnh lao, VNM,2018, BTSX, Mọi lứa tuổi,95500000,10519.2,11.01,559460.7,585.82
+16,1190, Hen suyễn, VNM,2018, BTSX, Mọi lứa tuổi,95500000,8200.85,8.59,263581.7,276
+17,650, Ung thư ruột kết và trực tràng, VNM,2018, BTSX, Mọi lứa tuổi,95500000,7943.93,8.32,211616.3,221.59
+18,1400, Dị tật bẩm sinh, VNM,2018, BTSX, Mọi lứa tuổi,95500000,7574.16,7.93,735870.2,770.54
+19,1610, Tự làm hại bản thân, VNM,2018, BTSX, Mọi lứa tuổi,95500000,7266.33,7.61,313678.8,328.46
+20,620, Ung thư miệng và vòm họng, VNM,2018, BTSX, Mọi lứa tuổi,95500000,6903.2,7.23,213235.3,223.28
+21,700,Ung thư vú, VNM,2018, BTSX, Mọi lứa tuổi,95500000,5980.94,6.26,214712.9,224.83
+22,1570, Đuối nước, VNM,2018, BTSX, Mọi lứa tuổi,95500000,5334.08,5.59,288725.5,302.33
+23,1150," Bệnh cơ tim, viêm cơ tim, viêm nội tâm mạc", VNM,2018, BTSX, Mọi lứa tuổi,95500000,5292.43,5.54,125170.6,131.07
+24,960, bệnh Parkinson, VNM,2018, BTSX, Mọi lứa tuổi,95500000,5253.74,5.5,83533.08,87.47
+25,100, HIV/AIDS, VNM,2018, BTSX, Mọi lứa tuổi,95500000,4981.41,5.22,263831.6,276.26
+26,770, Bệnh bạch cầu, VNM,2018, BTSX, Mọi lứa tuổi,95500000,4878.86,5.11,234510.2,245.56
+27,110, Bệnh tiêu chảy, VNM,2018, BTSX, Mọi lứa tuổi,95500000,4727.6,4.95,332129.5,347.78
+28,751, Ung thư não và hệ thần kinh, VNM,2018, BTSX, Mọi lứa tuổi,95500000,3112.95,3.26,139243.8,145.81
+29,760," U lympho, đa u tủy", VNM,2018, BTSX, Mọi lứa tuổi,95500000,2882.37,3.02,98838.84,103.5
+30,1242, Liệt ruột và tắc ruột, VNM,2018, BTSX, Mọi lứa tuổi,95500000,2456.84,2.57,65427.54,68.51
+31,710, Ung thư tử cung cổ tử cung, VNM,2018, BTSX, Mọi lứa tuổi,95500000,2354.12,2.47,74778.69,78.3
+32,630, Ung thư thực quản, VNM,2018, BTSX, Mọi lứa tuổi,95500000,2208.59,2.31,65845.46,68.95
+33,1246, Bệnh túi mật và đường mật, VNM,2018, BTSX, Mọi lứa tuổi,95500000,2053.52,2.15,60438.54,63.29
+34,1575, Tiếp xúc với lực cơ học, VNM,2018, BTSX, Mọi lứa tuổi,95500000,1891.71,1.98,152583.2,159.77
+35,740, Ung thư tuyến tiền liệt, VNM,2018, BTSX, Mọi lứa tuổi,95500000,1876.06,1.96,53631.4,56.16
+36,1620, Bạo lực giữa các cá nhân, VNM,2018, BTSX, Mọi lứa tuổi,95500000,1753.42,1.84,148881.8,155.9
+37,1110, Huyết áp thấp, VNM,2018, BTSX, Mọi lứa tuổi,95500000,1713.95,1.79,44744.02,46.85
+38,180, Viêm não, VNM,2018, BTSX, Mọi lứa tuổi,95500000,1604.33,1.68,73335.15,76.79
+39, 13:30, Bệnh ngoài da, VNM,2018, BTSX, Mọi lứa tuổi,95500000,1475.94,1.55,291915.9,305.67
+40,870, Rối loạn sử dụng ma túy, VNM,2018, BTSX, Mọi lứa tuổi,95500000,1325.14,1.39,189192.2,198.11
+41,745, Ung thư thận, VNM,2018, BTSX, Mọi lứa tuổi,95500000,1310.34,1.37,46933.62,49.15
+42,720, Ung thư tử cung, VNM,2018, BTSX, Mọi lứa tuổi,95500000,1128.94,1.18,37236.82,38.99
+43,1248, Viêm tụy, VNM,2018, BTSX, Mọi lứa tuổi,95500000,1064.92,1.12,30656.39,32.1
+44,1220, Bệnh viêm loét dạ dày, VNM,2018, BTSX, Mọi lứa tuổi,95500000,959.98,1.01,16303.68,17.07
+45,670, Ung thư tuyến tụy, VNM,2018, BTSX, Mọi lứa tuổi,95500000,886.43,0.93,26742.97,28
+46,750, Ung thư bàng quang, VNM,2018, BTSX, Mọi lứa tuổi,95500000,872.98,0.91,19301.33,20.21
+47,753, Ung thư thanh quản, VNM,2018, BTSX, Mọi lứa tuổi,95500000,854.61,0.89,27031.33,28.31
+48,860, Rối loạn sử dụng rượu, VNM,2018, BTSX, Mọi lứa tuổi,95500000,852.41,0.89,197407.2,206.71
+49,1540,Ngộ độc, VNM,2018, BTSX, Mọi lứa tuổi,95500000,841.62,0.88,37813.56,39.6
+50,730, Ung thư buồng trứng, VNM,2018, BTSX, Mọi lứa tuổi,95500000,835.76,0.88,30247.05,31.67
+51,130, Bịnh ho gà, VNM,2018, BTSX, Mọi lứa tuổi,95500000,801.01,0.84,72070.61,75.47
+52,420, Điều kiện của mẹ, VNM,2018, BTSX, Mọi lứa tuổi,95500000,779.98,0.82,54405.06,56.97
+53,170, Viêm màng não, VNM,2018, BTSX, Mọi lứa tuổi,95500000,666.31,0.7,40154.35,42.05
+54,1560," Lửa, nhiệt và các chất nóng", VNM,2018, BTSX, Mọi lứa tuổi,95500000,609.75,0.64,60999.47,63.87
+55,970, bệnh động kinh, VNM,2018, BTSX, Mọi lứa tuổi,95500000,600.77,0.63,104330.1,109.25
+56,320, bệnh dại, VNM,2018, BTSX, Mọi lứa tuổi,95500000,533.78,0.56,23766.56,24.89
+57,754, Ung thư tuyến giáp, VNM,2018, BTSX, Mọi lứa tuổi,95500000,517.2,0.54,20228.44,21.18
+58,690, Khối u ác tính và các bệnh ung thư da khác, VNM,2018, BTSX, Mọi lứa tuổi,95500000,456.87,0.48,13030.96,13.64
+59,752, Ung thư túi mật và đường mật, VNM,2018, BTSX, Mọi lứa tuổi,95500000,418.98,0.44,11522.83,12.07
+60,190, Viêm gan B cấp tính, VNM,2018, BTSX, Mọi lứa tuổi,95500000,383.47,0.4,16040.62,16.8
+61,1505, Hội chứng trẻ sơ sinh chết đột ngột, VNM,2018, BTSX, Mọi lứa tuổi,95500000,365.99,0.38,32773.92,34.32
+62,50, Bịnh giang mai, VNM,2018, BTSX, Mọi lứa tuổi,95500000,311.98,0.33,27899.36,29.21
+63,755, Ung thư trung biểu mô, VNM,2018, BTSX, Mọi lứa tuổi,95500000,305.94,0.32,9551.36,10
+64,160, Uốn ván, VNM,2018, BTSX, Mọi lứa tuổi,95500000,299.39,0.31,15900.52,16.65
+65,1350, Viêm khớp dạng thấp, VNM,2018, BTSX, Mọi lứa tuổi,95500000,216.37,0.23,19118.59,20.02
+66,1240, Viêm ruột thừa, VNM,2018, BTSX, Mọi lứa tuổi,95500000,205.69,0.22,9539.85,9.99
+67,1244, Bệnh viêm ruột, VNM,2018, BTSX, Mọi lứa tuổi,95500000,206.36,0.22,7481.28,7.83
+68,811, bệnh thalassemia, VNM,2018, BTSX, Mọi lứa tuổi,95500000,191.96,0.2,45832.89,47.99
+69,186, Viêm gan A cấp tính, VNM,2018, BTSX, Mọi lứa tuổi,95500000,185.73,0.19,8356.53,8.75
+70,150, Bệnh sởi, VNM,2018, BTSX, Mọi lứa tuổi,95500000,172.16,0.18,15148.12,15.86
+71,300, Sốt xuất huyết, VNM,2018, BTSX, Mọi lứa tuổi,95500000,132.97,0.14,17674.59,18.51
+72,980, Bệnh đa xơ cứng, VNM,2018, BTSX, Mọi lứa tuổi,95500000,132.24,0.14,5272.92,5.52
+73,1580, Thảm họa thiên nhiên, VNM,2018, BTSX, Mọi lứa tuổi,95500000,135.66,0.14,12805.41,13.41
+74, 16 giờ 30, Bạo lực tập thể và sự can thiệp của pháp luật, VNM,2018, BTSX, Mọi lứa tuổi,95500000,121.13,0.13,7048.17,7.38
+75,1290, sỏi tiết niệu, VNM,2018, BTSX, Mọi lứa tuổi,95500000,122.76,0.13,8734.84,9.15
+76,550, Suy dinh dưỡng protein-năng lượng, VNM,2018, BTSX, Mọi lứa tuổi,95500000,123.88,0.13,45680.74,47.83
+77,742, Ung thư tinh hoàn, VNM,2018, BTSX, Mọi lứa tuổi,95500000,73.72,0.08,2326.16,2.44
+78,200, Viêm gan C cấp tính, VNM,2018, BTSX, Mọi lứa tuổi,95500000,80.09,0.08,2749.4,2.88
+79,1241,Viêm dạ dày và viêm tá tràng, VNM,2018, BTSX, Mọi lứa tuổi,95500000,61.95,0.06,20802.17,21.78
+80,400, Nhiễm trùng đường hô hấp trên, VNM,2018, BTSX, Mọi lứa tuổi,95500000,34.67,0.04,64078.53,67.1
+81,295, bệnh Echinococcus, VNM,2018, BTSX, Mọi lứa tuổi,95500000,32.97,0.03,1078.51,1.13
+82,205, Viêm gan E cấp tính, VNM,2018, BTSX, Mọi lứa tuổi,95500000,25.31,0.03,1136.55,1.19
+83,285, Bệnh giun sán, VNM,2018, BTSX, Mọi lứa tuổi,95500000,14.54,0.02,21497.13,22.51
+84,220, Bệnh sốt rét, VNM,2018, BTSX, Mọi lứa tuổi,95500000,9.14,0.01,1450.35,1.52
+85,340, Bệnh giun đũa, VNM,2018, BTSX, Mọi lứa tuổi,95500000,9.7,0.01,26960.02,28.23
+86,1320, Bệnh phụ khoa, VNM,2018, BTSX, Mọi lứa tuổi,95500000,8.95,0.01,267543.6,280.15
+87,1470, Tình trạng răng miệng, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,205006.1,214.67
+88,1310, Khô khan, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,23629.93,24.74
+89,1280, Tăng sản tuyến tiền liệt lành tính, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,30744.84,32.19
+90,1360, Viêm xương khớp, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,129496.5,135.6
+91,1370, Bệnh gout, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,18092.4,18.94
+92,1380, Đau lưng và cổ, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,707415.4,740.75
+93,990, chứng đau nửa đầu, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,386828.4,405.06
+94,1000, Đau đầu không đau nửa đầu, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,51853.81,54.3
+95, 10:30, bệnh tăng nhãn áp, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,11389.76,11.93
+96,1040, Đục thủy tinh thể, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,101056.9,105.82
+97,1050, Lỗi khúc xạ chưa được điều trị, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,364935.2,382.13
+98,1060, Thoái hóa điểm vàng, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,20713.71,21.69
+99,1070, Mất thị lực khác, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,270168.1,282.9
+100,1080, Mất thính lực khác, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,510712.3,534.78
+101,230, Bệnh Trypanosomosis Châu Phi, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,0,0
+102,240, bệnh Chagas, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,0,0
+103,250, Bệnh sán máng, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,0,0
+104,260, bệnh leishmania, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,0,0
+105,270, Giun chỉ bạch huyết, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,28640.14,29.99
+106,280, Bệnh giun chỉ, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,0,0
+107,60, Chlamydia, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.98,0,4538.12,4.75
+108,70, Bệnh da liểu, VNM,2018, BTSX, Mọi lứa tuổi,95500000,3.2,0,2218.1,2.32
+109,80, Trichomonas, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,2234.45,2.34
+110,85,mụn rộp sinh dục, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,3784.55,3.96
+111,140, bệnh bạch hầu, VNM,2018, BTSX, Mọi lứa tuổi,95500000,3.76,0,240.56,0.25
+112,350, bệnh lông tóc, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,13016.65,13.63
+113,360, Bệnh giun móc, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,3919.34,4.1
+114,362, Giun sán do thực phẩm, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,15619.76,16.36
+115,365, bệnh phong, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,88.87,0.09
+116,410, Viêm tai giữa, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.66,0,27860.2,29.17
+117,310, bệnh đau mắt hột, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,1466.5,1.54
+118,315, Sốt vàng, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,0,0
+119,812, Rối loạn hồng cầu hình liềm và đặc điểm, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0.4,0,1681.27,1.76
+120,830, Rối loạn trầm cảm, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,370587,388.05
+121,840, Rối loạn lưỡng cực, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,75817.26,79.39
+122,850, Tâm thần phân liệt, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,227221.5,237.93
+123,880, Rối loạn lo âu, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,219088.5,229.41
+124,890, Rối loạn ăn uống, VNM,2018, BTSX, Mọi lứa tuổi,95500000,1.85,0,20498.81,21.46
+125,900, Tự kỷ và hội chứng Asperger, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,45704.25,47.86
+126,910, Rối loạn hành vi thời thơ ấu, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,61293.25,64.18
+127,920, Khuyết tật trí tuệ vô căn, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,61967.38,64.89
+128,560, Thiêu I ôt, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,14996.2,15.7
+129,570, Thiếu vitamin A, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,3125.03,3.27
+130,580, Thiếu máu thiếu sắt, VNM,2018, BTSX, Mọi lứa tuổi,95500000,0,0,142888.8,149.62
